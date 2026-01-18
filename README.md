@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Cyla! 👋
 
-<!--
-**cyla-lacuniak/cyla-lacuniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Currently taking CSC-134 and getting ready to learn C++! 💻
 
-Here are some ideas to get you started:
+## My Foo (special interest) 🎯
+-Crochet queen 🧶
+-Book lover 📖
+-Video game connoisseur 🎮
+-Avid gym-goer 🏋️‍♀️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+C++ and how to do home DIY projects 🔨
+
+## Fun Fact
+My husand and I both absolutely **detest** ketchup (match made in heaven) 😱
+
+## Find Me
+- 📫 Right here on GitHub!
